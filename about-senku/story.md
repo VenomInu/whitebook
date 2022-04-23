@@ -8,5 +8,5 @@ description: Senku Inu Introduce
 
 :telescope:Senku Inu hopes to share comic culture and help more people understand and integrate into comic culture. We hope to have our own Swap, Dapp, NFT, GameFi and Virtual mall, etc.
 
-![](../.gitbook/assets/024f9c4728a49e40472323f101948183.jpeg)
+![](../.gitbook/assets/f8659b2ab01a362204079d25e4ccad58.jpeg)
 
