@@ -14,13 +14,13 @@ Our token economy is designed for the long-term development of the project, brin
 
 _****_
 
-•Unicrypt ILO：               65 700 000 000        65.7%       &#x20;
+•Presale：               52 000 000 000        52%       &#x20;
 
-•Liquidity ：                     32 770 000 000       32.77%&#x20;
+•Liquidity ：                     31 000 000 000       31%&#x20;
 
-•Lock Token ：                   1 530 000 000       1.53%&#x20;
+•Lock Token ：                  17 000 000 000       17%&#x20;
 
-![](<../.gitbook/assets/屏幕截图 2022-04-23 173331.png>)
+![](<../.gitbook/assets/屏幕截图 2022-05-11 132401.png>)
 
 
 
